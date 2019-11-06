@@ -1,0 +1,42 @@
+
+
+#noticia p{
+	text-align: justify;
+}
+
+#noticia h2{
+	text-align: center;
+}
+
+
+.escondido{
+	display: none;
+}
+
+#botao-form2{
+	display: none;
+}
+
+.escondido2{
+	display: none;
+}
+
+#botao-form3{
+	display: none;
+}
+
+.escondido3{
+	display: none;
+}
+
+#botao-form4{
+	display: none;
+}
+
+.escondido4{
+	display: none;
+}
+
+#botao-form5{
+	display: none;
+}
