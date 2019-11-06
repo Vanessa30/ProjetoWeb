@@ -1,0 +1,18 @@
+CARROSSEL
+<h2>OS CACHORROS SÃO CAPAZES DE NOS ENTENDER! </h2>
+          <p> Elem nos compreendem. Cães são animais muito bem qualificados para interpretar gestos e sinais humanos.
+
+<h2>OS CACHORROS TÊM SENTIMENTOS! </h2>
+          <p> Os cachorros têm o hormônio ocitocina, aquele que segregamos quando estamos apaixonados ou sentimos afeto pelos outros. 
+          </p>
+
+<h2>O CACHORRO PODE SER SEU COMPANHEIRO!</h2>
+         <p> Para aqueles que vivem sozinhos, ter um cão é a melhor solução. Nunca mais você chegará em sua casa e ela estará vazia, você sempre terá um ser de bom humor a sua espera e que te receberá com carinho e “um sorriso”. </p>
+
+COLABORE
+<h4>Alimente-os bem </h4>
+        <p>A alimentação de boa qualidade vai fazer dos cãozinhos animais mais saudáveis, com menos chance de contrair doenças. Pensar com carinho nessa questão é muito mais importante do que enchê-los de petiscos e guloseimas calóricas e muitas vezes artificiais, que podem fazer muito mal.</p>
+<h4>Fique sempre ao lado deles </h4>
+        <p>Cães que vivem isolados, longe da família, confinados em canis, ou o pior de tudo, presos em correntes, não estão levando uma vida adequada. Esses animais acabam apresentando diversos tipos de transtornos de comportamento, e não há dúvida que se sentem sozinhos e tristes. </p>
+<h4>Converse sempre com eles</h4>
+        <p>O relacionamento com um cachorro não é tão diferente de qualquer outro tipo de relação, e a comunicação é sempre um fator dos mais importantes. Conversar, ensinar a se comportar dentro de casa e aulas básicas de adestramento podem ser o início de uma bela amizade. </p>
